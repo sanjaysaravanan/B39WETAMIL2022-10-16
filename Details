@@ -1,0 +1,31 @@
+   
+  Callback
+
+    callback function ---> a function which is used an arguement to another function to execute a set of statements
+
+    async operations execution ( operation running in background )
+      Eg: setTimout ( wait for sometime to execute ) , setInterval ( executes frequently after certain interval )
+    
+    async operations are put into a queue after the wait time/ or completion of action.
+    then js grabs them from the queue for execution
+
+    use & purpose of the callback
+
+    callback advantages:
+      1. Readability
+      2. Modularity / Reusability
+      3. To keep track when to execute what statements as a callback in a asynchronous operation
+
+    pain of callback
+
+  Discussion for Task
+    Pagination 
+    calculator ---> use eval for infix expression valuation
+
+  Steps TO Approach Task:
+    1. create html, js file and link them
+    2. Add the test script (https://app.zenclass.in/sheets/v1/js/zen/suite/bundle.js)
+    3. Implement the task with respect to test cases
+  Example Task:
+    table creation
+    test suite
